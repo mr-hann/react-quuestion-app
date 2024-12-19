@@ -1,0 +1,16 @@
+.center-text{
+    margin:2em auto;
+    width: 80%; 
+}
+.btn-in{
+    background-color: rgba(168, 46, 46, 0.829);
+    color: #e9e7e7;
+    margin: 2em auto;
+    padding: 10px 20px;
+    width: 10em;
+    border-radius: 5px;
+}
+h2,ul li{
+    margin: 2em 0;
+    text-transform: capitalize;
+}

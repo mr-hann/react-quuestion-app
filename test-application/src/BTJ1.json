@@ -1,0 +1,109 @@
+[
+    {
+      "id": 1,
+      "question": "Technology uses the knowledge and skill gained from ____ to provide and make life comfortable.",
+      "options": [
+        "Science",
+        "Technology",
+        "Growth",
+        "Skill"
+      ],
+      "ans": "Science"
+    },
+    {
+      "id": 2,
+      "question": "Science education provides studies on _____ and _____ around us.",
+      "options": [
+        "Living and nonliving things",
+        "Technology and science",
+        "Growth and development",
+        "Education and studies"
+      ],
+      "ans": "Living and nonliving things"
+    },
+    {
+      "id": 3,
+      "question": "Technology uses ______ to provide our basic needs.",
+      "options": [
+        "Materials available",
+        "Technology",
+        "Laboratory",
+        "Shelter"
+      ],
+      "ans": "Materials available"
+    },
+    {
+      "id": 4,
+      "question": "Practical science is taught in the _______?",
+      "options": [
+        "Laboratory",
+        "Workshop",
+        "Clothes",
+        "Medical center"
+      ],
+      "ans": "Laboratory"
+    },
+    {
+      "id": 5,
+      "question": "Practical technology is taught in the _______?",
+      "options": [
+        "Workshop",
+        "Laboratory",
+        "Cloth",
+        "Medical center"
+      ],
+      "ans":"Workshop"
+    },
+    {
+      "id": 6,
+      "question": "Technology-related professions and occupations are broadly classified into the following except.",
+      "options": [
+        "Building technology",
+        "Political studies",
+        "Mechanical engineering",
+        "Computer engineering"
+      ],
+      "ans":"Political studies"
+    },
+    {
+      "id": 7,
+      "question": "The following are not technical-related professions except.",
+      "options": [
+        "Political studies",
+        "Chemical engineering",
+        "Sculpture and art",
+        "Graphics art"
+      ],
+      "ans":"Chemical engineering"
+    },
+    {
+      "id": 8,
+      "question": "The following are technology literacy except.",
+      "options": [
+        "To make students self-reliant",
+        "To equip the child with weapon of mass destruction",
+        "To make them understand technology and become creative.",
+        "To equip the child with mental skill and capacity to solve everyday problems."
+      ],
+      "ans": "To equip the child with weapon of mass destruction"
+    },
+    {
+      "id": 9,
+      "question": "Development of technology has enabled humanity to communicate more effectively?",
+      "options": [
+        "True",
+        "False"
+      ],
+      "ans": "True"
+    },
+    {
+      "id": 10,
+      "question": "Does technology make use of natural resources?",
+      "options": [
+        "True",
+        "False"
+      ],
+      "ans": "True"
+    }
+  ]
+  

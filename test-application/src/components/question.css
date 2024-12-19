@@ -1,0 +1,35 @@
+.question-section{
+    display: block;
+    margin: 1em 1.4em;
+    background-color: rgba(168, 46, 46, 0.829) ;
+    padding: 2em 4em;
+    border-radius: 25px;
+    color: #e9e2e2;
+}
+.questions{
+    margin: 2.7em 0;
+}
+.alp{
+    list-style-type: upper-alpha;
+    display: flex;
+  
+}
+.options{
+    margin:.7em 2em;
+    cursor: pointer;
+}
+span{
+    padding:0 8px;
+}
+.submit-btn{
+ display: block;
+ margin:1.5em 0;
+ padding:.6em 1.7em ;
+ background-color: rgb(161, 40, 19);
+ color:white;
+ font-family: sans-serif;
+ font-size: 19px;
+ outline:none;
+ border-radius: 5px;
+ 
+}

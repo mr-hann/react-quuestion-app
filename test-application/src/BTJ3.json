@@ -1,0 +1,113 @@
+
+[
+  {
+    "id": 11,
+    "question": "Why is it important to stay up-to-date with industry developments?",
+    "options": [
+      "So you can be lazy and not learn anything new",
+      "So you can change careers often",
+      "So you can stay competitive and advance in your career",
+      "So you can work from home"
+    ],
+    "ans": "So you can stay competitive and advance in your career"
+  },
+  {
+    "id": 12,
+    "question": "Why is it important to consider your values and interests when choosing a career?",
+    "options": [
+      "So you can earn a lot of money",
+      "So you can work in a prestigious company",
+      "So you can be happy and fulfilled in your career",
+      "So you can travel around the world"
+    ],
+    "ans": "So you can be happy and fulfilled in your career"
+  },
+  {
+    "id": 13,
+    "question": "What is a career assessment?",
+    "options": [
+      "A test that measures your intelligence",
+      "A tool that helps you identify your strengths and interests",
+      "A type of job interview",
+      "A type of resume"
+    ],
+    "ans": "A tool that helps you identify your strengths and interests"
+  },
+  {
+    "id": 14,
+    "question": "Why is it important to have transferable skills?",
+    "options": [
+      "So you can change careers often",
+      "So you can work in any industry",
+      "So you can be competitive in the job market",
+      "So you can earn a low salary"
+    ],
+    "ans": "So you can be competitive in the job market"
+  },
+  {
+    "id": 15,
+    "question": "The act of cutting down timber is referred to as _______?",
+    "options": [
+      "Tree falling",
+      "Cutting down timber",
+      "Falling of timber",
+      "Falling of trees"
+    ],
+    "ans": "Cutting down timber"
+  },
+  {
+    "id": 16,
+    "question": "Wood suitable for engineering work is called ________?",
+    "options": [
+      "Wood",
+      "Working wood",
+      "Engineer timber",
+      "Timber"
+    ],
+    "ans": "Timber"
+  },
+  {
+    "id": 17,
+    "question": "The body of a tree that has not been cut down is called _____?",
+    "options": [
+      "Standing timber",
+      "Standing tree",
+      "Standing wood",
+      "Standing body timber"
+    ],
+    "ans": "Standing timber"
+  },
+  {
+    "id": 18,
+    "question": "The felled timber is referred to as _____?",
+    "options": [
+      "Falling timber",
+      "Rough Timber",
+      "Falling wood",
+      "Ground timber"
+    ],
+    "ans":"Rough Timber"
+  },
+  {
+    "id": 19,
+    "question": "A tree is grown by obtaining its food in the form of ________?",
+    "options": [
+      "Root",
+      "Sap",
+      "Photosynthesis",
+      "Nitrate"
+    ],
+    "ans": "Sap"
+  },
+  {
+    "id": 20,
+    "question": "The following are natural defects in timber.",
+    "options": [
+      "Knot",
+      "Cup",
+      "Bow",
+      "Twist"
+    ],
+    "ans": "Knot"
+  }
+]

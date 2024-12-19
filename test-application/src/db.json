@@ -1,0 +1,52 @@
+{
+  "students": [
+    {
+      "id": "11249508238",
+      "name": "porshia dappa",
+      "class": "jss1",
+      "score": "8"
+    },
+    {
+      "id": "1141164887",
+      "name": "morningstar dappa",
+      "class": "jss 2",
+      "score": "9"
+    },
+    {
+      "id": "11477323435",
+      "name": "augustine zoe chizitere",
+      "class": "jss 2",
+      "score": "10"
+    },
+    {
+      "id": "11551504187",
+      "name": "an0inted emmanuel",
+      "class": "jss 2",
+      "score": "9"
+    },
+    {
+      "id": "1265029259",
+      "name": "alali excel",
+      "class": "jss 3",
+      "score": "2"
+    },
+    {
+      "id": "12162224578",
+      "name": "peter ojoba",
+      "class": "jss 3",
+      "score": "1"
+    },
+    {
+      "id": "12303115264",
+      "name": "kennedy sophie",
+      "class": "jss 3",
+      "score": "7"
+    },
+    {
+      "id": "12387319532",
+      "name": "precious favour",
+      "class": "jss 3",
+      "score": "5"
+    }
+  ]
+}

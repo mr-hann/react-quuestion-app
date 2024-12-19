@@ -1,0 +1,18 @@
+.center{
+    text-align: center;
+    display: block;
+    width:80%;
+    margin: 10em auto;
+}
+.text{
+    font-size:2em;
+}
+.send-data{
+    height:4em;
+    width:10em;
+    border-radius: 5px;
+    background-color:rgba(168, 46, 46, 0.829) ;
+    color: azure;
+    margin:2em 0;
+    font-size: 18px;
+}

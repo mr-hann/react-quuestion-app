@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "question": "What is the primary objective of first aid?",
+      "options": [
+        "To save lives",
+        "To save properties",
+        "To save money",
+        "To create more danger"
+      ],
+      "ans": "To save lives"
+    },
+    {
+      "id": 2,
+      "question": "First aid materials are _______.",
+      "options": [
+        "Materials found in a first aid box used for treatment.",
+        "Safety tools used in the workshop",
+        "Safety gears",
+        "Ambulance"
+      ],
+      "ans": "Materials found in a first aid box used for treatment."
+    },
+    {
+      "id": 3,
+      "question": "After first aid, what next _____?",
+      "options": [
+        "Rush the victim to the hospital",
+        "Let him go home",
+        "Take him to a chemist",
+        "Give him glucose"
+      ],
+      "ans": "Rush the victim to the hospital"
+    },
+    {
+      "id": 4,
+      "question": "The following are first aid materials except?",
+      "options": [
+        "Plastic",
+        "Penicillin",
+        "Methylated spirit",
+        "Gv"
+      ],
+      "ans": "Plastic"
+    },
+    {
+      "id": 5,
+      "question": "_____ is used to keep a drug on an injury and to keep flies off it.",
+      "options": [
+        "Plaster",
+        "Penicillin",
+        "Methylated spirit",
+        "GV"
+      ],
+      "ans": "Plaster"
+    },
+    {
+      "id": 6,
+      "question": "_____ is used for cleaning injury before proper medication.",
+      "options": [
+        "Plaster",
+        "Methylated spirit",
+        "Penicillin",
+        "GV"
+      ],
+      "ans": "Methylated spirit"
+    },
+    {
+      "id": 7,
+      "question": "______ is used for the sustainability of strength in the first aid box.",
+      "options": [
+        "GV",
+        "Glucose",
+        "Plaster",
+        "Methylated spirit"
+      ],
+      "ans": "Glucose"
+    },
+    {
+      "id": 8,
+      "question": "What does B stand for in the ABC of first aid?",
+      "options": [
+        "Branding",
+        "Breathing",
+        "Braking",
+        "Broke"
+      ],
+      "ans": "Breathing"
+    },
+    {
+      "id": 9,
+      "question": "The following are qualities of good first aid except ______?",
+      "options": [
+        "Observant",
+        "Rough",
+        "Cheerful",
+        "Gentle"
+      ],
+      "ans": "Rough"
+    },
+    {
+      "id": 10,
+      "question": "Is drowning a common accident that first aid can be administered?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "ans": "Yes"
+    }
+  ]
+  

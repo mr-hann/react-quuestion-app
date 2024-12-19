@@ -1,0 +1,24 @@
+[{
+    "id":1,
+    "question":"find the hcf of the 10,4,44",
+    "options":[10,11,12,13],
+    "ans":11
+},
+{
+    "id":2,
+    "question":"find the lcm of the 34,4,44",
+    "options":[67,14,4,13],
+    "ans":14
+},
+{
+    "id":4,
+    "question":"find the hcf of the 4,66,48",
+    "options":[27,24,44,23],
+    "ans":44
+},{
+    "id":5,
+    "question":"find the lcm of the 30,40,4",
+    "options":[57,64,54,73],
+    "ans":64
+}
+]
